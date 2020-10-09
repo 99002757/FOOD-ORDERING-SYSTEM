@@ -6,3 +6,4 @@
 ![CI](https://github.com/99002757/FOOD-ORDERING-SYSTEM/workflows/CI/badge.svg)
 ![Unit testing](https://github.com/99002757/FOOD-ORDERING-SYSTEM/workflows/Unit%20testing/badge.svg)
 ![Valgrind](https://github.com/99002757/FOOD-ORDERING-SYSTEM/workflows/Valgrind/badge.svg)
+![build](https://github.com/99002757/FOOD-ORDERING-SYSTEM/workflows/build/badge.svg)
